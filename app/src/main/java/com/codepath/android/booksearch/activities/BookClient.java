@@ -1,4 +1,4 @@
-package com.codepath.android.booksearch.net;
+package com.codepath.android.booksearch.activities;
 
 import com.codepath.asynchttpclient.AsyncHttpClient;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;

@@ -22,7 +22,7 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
     private Context mContext;
 
     // Define listener member variable
-    private OnItemClickListener listener;
+    public OnItemClickListener listener;
 
     // Define the listener interface
     public interface OnItemClickListener {
